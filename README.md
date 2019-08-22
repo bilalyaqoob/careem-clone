@@ -1,5 +1,5 @@
-- Create a `constants/ApiKeys.js` file and put your actual firebase config values:
-```
+add firebase configurations
+
 export default {
   FirebaseConfig: {
     apiKey:      "",
