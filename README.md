@@ -1,4 +1,4 @@
-  #Add firebase configurations
+    Add firebase configurations
 
 export default {
   FirebaseConfig: {
